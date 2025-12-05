@@ -22,7 +22,7 @@ website:
       - text: "Home"
         file: index.qmd
       - text: "My Resume"
-        file: resume.qmd
+        file: Alexander Humphreys Resume.pdf
       - text: "Data Cleansing"
         file: cleansing.qmd
       - text: "Data Exploration"
